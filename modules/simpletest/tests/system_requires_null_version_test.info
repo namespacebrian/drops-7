@@ -5,8 +5,3 @@ core = 7.x
 version = VERSION
 hidden = FALSE
 dependencies[] = system_null_version_test
-
-; Information added by Drupal.org packaging script on 2022-09-07
-version = "7.92"
-project = "drupal"
-datestamp = "1662554078"
